@@ -1,0 +1,1 @@
+<view class="Login_bk"><view class="title"><text>欢迎来到邮签</text></view><button type="primary" data-event-opts="{{[['tap',[['start']]]]}}" bindtap="__e">开启邮签之旅</button><text style="margin-top:10rpx;">一键登录您的账号并绑定学号</text><text style="position:absolute;bottom:10rpx;">(该过程会跳转到信息门户验证您的身份)</text></view>
